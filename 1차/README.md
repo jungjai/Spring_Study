@@ -44,6 +44,3 @@
 5. 은닉화
    - 클래스의 field는 Private로 접근 제어지시자로 지정한 뒤 Getter, Setter를 통해 Field의 값을 변경, 호출한다
    - Getter : 값을 호출, Setter : 값을 변경
-
-![접근 제어 지시자](C:\Users\jeong\Desktop\Spring\1차\접근 제어 지시자.JPG)
-
