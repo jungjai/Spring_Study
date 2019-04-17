@@ -1,4 +1,4 @@
-# 자바 기초
+# Spring Boot	시작하기
 
 ## 0. Spring 소개
 
