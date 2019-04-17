@@ -1,4 +1,4 @@
-# [자바 기초]()
+# [자바 기초](<https://github.com/jungjai/Spring_Study/blob/master/1%EC%B0%A8/java_basic.md>)
 
 ### 0. 객체 지향 프로그래밍(Object-Oriented Programming)
 
@@ -18,7 +18,7 @@
 
 ### 8. Annotation
 
-# [Spring Boot 시작하기]()
+# [Spring Boot 시작하기](<https://github.com/jungjai/Spring_Study/blob/master/1%EC%B0%A8/Start_SpringBoot.md>)
 
 ### 0. Spring 소개
 
